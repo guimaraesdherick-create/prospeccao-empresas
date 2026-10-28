@@ -1,0 +1,4 @@
+duckdb
+streamlit
+pandas
+openpyxl
