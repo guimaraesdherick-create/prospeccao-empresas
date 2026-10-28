@@ -1,4 +1,0 @@
-duckdb
-streamlit
-pandas
-openpyxl
